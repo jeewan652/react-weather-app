@@ -1,3 +1,10 @@
+.main{
+  background-image: url(https://ik.imagekit.io/gre81k4ioy/pexels-johannes-plenio-1118873.jpg?updatedAt=1702937276868);
+  background-position: 100vh;
+  
+  
+
+}
 .App {
   display: flex;
   align-items: center;
